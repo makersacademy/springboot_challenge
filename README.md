@@ -1,4 +1,4 @@
-# Weekend Challenge
+# End of unit challenge
 
 
 ### Instructions
